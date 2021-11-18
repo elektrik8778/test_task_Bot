@@ -12,8 +12,11 @@ Telegram bot with:
 
 
 $export FLASK_APP=app/main.py
+
 $flask run
 
 $ flask db init
+
 $ flask db migrate
+
 $ flask db upgrade
