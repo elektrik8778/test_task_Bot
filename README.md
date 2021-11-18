@@ -7,3 +7,13 @@ Telegram bot with:
 - postgresql
 - flask-migrate
 - python-dotenv
+
+
+
+
+$export FLASK_APP=app/main.py
+$flask run
+
+$ flask db init
+$ flask db migrate
+$ flask db upgrade
