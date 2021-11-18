@@ -1,5 +1,5 @@
 # test_task_Bot
-Тестовое задание ITD
+Тестовое задание
 
 Telegram bot with:
 - flask
